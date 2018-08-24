@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+body{
+   background-color:   lightblue;
+}
+.background{
+     text-align: center;
+    background-color: snow;
+    color: black;
+    font-family: 'Cairo', sans-serif;
+}
