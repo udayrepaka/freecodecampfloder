@@ -1,0 +1,15 @@
+body {
+    position: relative;
+background-color:lightblue;
+font-family: 'Source Serif Pro', serif;
+font-family: 'Varela Round', sans-serif;
+}
+ul.nav-pills {
+    top: 20px;
+    position: fixed;
+}
+@media screen and (max-width: 810px) {
+  #section1, #section2, #section3, #section4, #section5  {
+      margin-left: 150px;
+  }
+}
